@@ -2,3 +2,5 @@ Welcome!
 
 Python
 C++
+C
+Javascript, CSS, HTML
