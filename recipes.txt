@@ -4,3 +4,5 @@ Python
 C++
 C
 Javascript, CSS, HTML (Not completely)
+
+Java Technology, R, Rasberry Pi (Unknown)
